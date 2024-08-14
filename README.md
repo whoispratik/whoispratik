@@ -11,7 +11,7 @@
 -  I’m currently working on Task Management Web App,Music web app etc
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,firebase,python,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,firebase,python,php,mysql,pinia)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
