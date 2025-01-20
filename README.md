@@ -11,7 +11,7 @@
  
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,firebase,python,php,mysql,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,laravel,mysql,firebase,pinia)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
