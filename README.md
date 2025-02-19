@@ -13,8 +13,5 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,laravel,mysql,firebase,pinia)](https://skillicons.dev)
 
-## 📬 Get in Touch
-
-- Connect with me on [Linkedin](https://www.linkedin.com/in/pratik-bahadur-thapa-b9964919a/)
 
 
